@@ -1,0 +1,5 @@
+
+Host eniac
+     HostName eniac.seas.upenn.edu
+     User wenbinz
+     IdentityFile ~/.ssh/eniac.key
